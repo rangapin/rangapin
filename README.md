@@ -1,4 +1,4 @@
-# Richard Rangapin
+# Richard Angapin
 
 Builder at the intersection of GTM engineering and developer tooling. I spend most of my time turning manual sales and marketing workflows into automated pipelines.
 
