@@ -15,6 +15,11 @@ users. I build the whole thing: model orchestration, backend, UI, billing, deplo
   with real-time alerts and client-ready reports.
   `Laravel · React · Postgres · Reverb (WebSockets)`
 
+- **[The Line](https://theline.to)** — a community platform for freedivers to connect
+  worldwide, share techniques, and train together. Threaded discussions, profiles, and
+  a live feed.
+  `Next.js · Supabase`
+
 #### 🛠️ Selected work
 
 - **gtm-engine** — an 8-stage LLM pipeline (research → enrichment → generation →
@@ -31,4 +36,4 @@ users. I build the whole thing: model orchestration, backend, UI, billing, deplo
 
 #### 📬 Connect
 
-[theline.to](https://theline.to/) · [LinkedIn](https://www.linkedin.com/in/rangapin)
+[LinkedIn](https://www.linkedin.com/in/rangapin)
