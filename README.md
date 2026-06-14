@@ -1,26 +1,34 @@
-# Richard Angapin
+### Hi, I'm Richard 👋
 
-Builder at the intersection of GTM engineering and developer tooling. I spend most of my time turning manual sales and marketing workflows into automated pipelines.
+I build and ship **AI-native products** — taking AI-powered SaaS from idea to paying
+users. I build the whole thing: model orchestration, backend, UI, billing, deploy.
 
-## What I build
+#### 🚀 Currently building
 
-**GTM automation** — end-to-end outbound systems that go from a domain to a launched campaign. Research, ICP scoring, enrichment, sequence generation, and CRM activation — orchestrated, not manually stitched.
+- **[HackerScope AI](https://hackerscope.ai)** — an AI engine that generates *validated*
+  startup ideas. Pairs Claude with live web research (EXA) so every idea ships with real
+  market sizing, competitor analysis, and revenue potential — not stale training data.
+  `Next.js · Supabase · Claude SDK · Stripe`
 
-**Security tooling** — platforms that turn passive domain scanning into actionable intelligence, for monitoring client sites or finding prospects with security gaps.
+- **[Achilleus](https://achilleus.so)** — automated website security monitoring for
+  agencies and freelancers. Tracks SSL, security headers, and DNS across many domains
+  with real-time alerts and client-ready reports.
+  `Laravel · React · Postgres · Reverb (WebSockets)`
 
-**Signal pipelines** — data systems that surface non-obvious signals (procurement trends, hiring velocity, domain vulnerabilities) and make them usable for outreach or analysis.
+#### 🛠️ Selected work
 
-## Featured projects
+- **gtm-engine** — an 8-stage LLM pipeline (research → enrichment → generation →
+  activation) that runs an end-to-end workflow in ~25 min.
+- **974radar** — public-procurement intelligence platform surfacing signals from French
+  open data (DECP).
+- **security-leads** — CLI that scans domains for exposure and turns findings into
+  structured intelligence.
 
-- [**gtm-engine**](https://github.com/rangapin/gtm-engine) — Claude Code CLI that runs a full outbound campaign from a single domain input (~25 min, 8 pipeline steps)
-- [**974radar**](https://github.com/rangapin/974radar) — Public procurement intelligence platform for Reunion Island, built on DECP open data
-- [**security-leads**](https://github.com/rangapin/security-leads) — CLI that scans domains for security gaps and generates outreach talking points
-- [**Achilleus**](https://github.com/rangapin/achilleus-docs) — Security monitoring SaaS for developers managing multiple client websites
+#### ⚙️ How I build
 
-## Stack
+`TypeScript` `Next.js` `React` `Python` `PHP / Laravel` `Supabase / Postgres`
+`Anthropic Claude` `Tailwind` — shipped fast with Claude Code.
 
-TypeScript · Next.js · Python · PHP · Supabase · Drizzle ORM · Tailwind CSS · Claude Code
+#### 📬 Connect
 
-## Contact
-
-LinkedIn: @rangapin
+[theline.to](https://theline.to/) · [LinkedIn](https://www.linkedin.com/in/rangapin)
