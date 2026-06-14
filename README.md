@@ -10,7 +10,7 @@ users. I build the whole thing: model orchestration, backend, UI, billing, deplo
   market sizing, competitor analysis, and revenue potential — not stale training data.
   `Next.js · Supabase · Claude SDK · Stripe`
 
-- **[Achilleus](https://achilleus.so)** — automated website security monitoring for
+- **[Achilleus](https://www.achilleus.so)** — automated website security monitoring for
   agencies and freelancers. Tracks SSL, security headers, and DNS across many domains
   with real-time alerts and client-ready reports.
   `Laravel · React · Postgres · Reverb (WebSockets)`
