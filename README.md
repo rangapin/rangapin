@@ -1,39 +1,26 @@
-### Hi, I'm Richard 👋
+# Richard Angapin
 
-I build and ship **AI-native products** — taking AI-powered SaaS from idea to paying
-users. I build the whole thing: model orchestration, backend, UI, billing, deploy.
+Builder of AI systems, founder, and amateur freediver. I design and ship products and
+internal tools that turn messy inputs into reliable output.
 
-#### 🚀 Currently building
+Based in Gdynia, Poland.
 
-- **[HackerScope AI](https://hackerscope.ai)** — an AI engine that generates *validated*
-  startup ideas. Pairs Claude with live web research (EXA) so every idea ships with real
-  market sizing, competitor analysis, and revenue potential — not stale training data.
-  `Next.js · Supabase · Claude SDK · Stripe`
+## apps & products
 
-- **[Achilleus](https://www.achilleus.so)** — automated website security monitoring for
-  agencies and freelancers. Tracks SSL, security headers, and DNS across many domains
-  with real-time alerts and client-ready reports.
-  `Laravel · React · Postgres · Reverb (WebSockets)`
+- [HackerScope AI](https://hackerscope.ai) — AI engine that generates validated startup ideas, pairing Claude with live web research for real market sizing.
+- [Achilleus](https://www.achilleus.so) — automated website security monitoring for agencies: SSL, security headers, and DNS across many domains, with real-time alerts.
+- [The Line](https://theline.to) — community platform for freedivers to connect, share techniques, and train together.
 
-- **[The Line](https://theline.to)** — a community platform for freedivers to connect
-  worldwide, share techniques, and train together. Threaded discussions, profiles, and
-  a live feed.
-  `Next.js · Supabase`
+## workflows & tools
 
-#### 🛠️ Selected work
+- gtm-engine — an 8-stage LLM pipeline (research → enrichment → generation → activation) that runs end to end in ~25 min.
+- 974radar — public-procurement intelligence platform built on French open data (DECP).
+- security-leads — CLI that scans domains for exposure and turns findings into structured intelligence.
 
-- **gtm-engine** — an 8-stage LLM pipeline (research → enrichment → generation →
-  activation) that runs an end-to-end workflow in ~25 min.
-- **974radar** — public-procurement intelligence platform surfacing signals from French
-  open data (DECP).
-- **security-leads** — CLI that scans domains for exposure and turns findings into
-  structured intelligence.
+## stack
 
-#### ⚙️ How I build
+TypeScript · Next.js · React · Python · PHP / Laravel · Supabase / Postgres · Anthropic Claude · Tailwind
 
-`TypeScript` `Next.js` `React` `Python` `PHP / Laravel` `Supabase / Postgres`
-`Anthropic Claude` `Tailwind` — shipped fast with Claude Code.
+## elsewhere
 
-#### 📬 Connect
-
-[LinkedIn](https://www.linkedin.com/in/rangapin)
+[Portfolio](https://www.richardangapin.com) · [LinkedIn](https://www.linkedin.com/in/rangapin)
