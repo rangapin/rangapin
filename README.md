@@ -1,26 +1,11 @@
-# Richard Angapin
+# Hey, I’m Richard
 
-Builder of AI systems, founder, and amateur freediver. I design and ship products and
-internal tools that turn messy inputs into reliable output.
+I work in technical support and like figuring out why things don’t work.
 
-Based in Gdynia, Poland.
+This is where I keep things I build, experiments, and whatever I’m learning. Lately, that’s networking: I’m studying for the CCNA and getting hands-on with my home network.
 
-## apps & products
+I use AI tools to help build side projects, including [The Line](https://theline.to), a community platform for freedivers.
 
-- [HackerScope AI](https://hackerscope.ai) — AI engine that generates validated startup ideas, pairing Claude with live web research for real market sizing.
-- [Achilleus](https://www.achilleus.so) — automated website security monitoring for agencies: SSL, security headers, and DNS across many domains, with real-time alerts.
-- [The Line](https://theline.to) — community platform for freedivers to connect, share techniques, and train together.
-
-## workflows & tools
-
-- gtm-engine — an 8-stage LLM pipeline (research → enrichment → generation → activation) that runs end to end in ~25 min.
-- 974radar — public-procurement intelligence platform built on French open data (DECP).
-- security-leads — CLI that scans domains for exposure and turns findings into structured intelligence.
-
-## stack
-
-TypeScript · Next.js · React · Python · PHP / Laravel · Supabase / Postgres · Anthropic Claude · Tailwind
-
-## elsewhere
+Based in Gdynia, Poland. Outside of a screen, I freedive and lift heavy things on a schedule.
 
 [Portfolio](https://www.richardangapin.com) · [LinkedIn](https://www.linkedin.com/in/rangapin)
